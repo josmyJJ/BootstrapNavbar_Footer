@@ -101,8 +101,7 @@ public class HomeController {
 </html>
 ```
 
-4. Run your application and open a browser, if you type in the URL http://localhost:8080 you should see this:
-![](https://github.com/ajhenley/unofficialguides/blob/master/IntroToSpringBoot/img/Lesson11.png)
+4. Run your application and open a browser, if you type in the URL http://localhost:8080 
 
 ## What is Going On
 Navbar is placed at the top of the page. It provides an easy access to information.
